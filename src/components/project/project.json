@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_project_projects",
+  "info": {
+    "displayName": "project",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "project_item": {
+      "displayName": "project_item",
+      "type": "component",
+      "repeatable": true,
+      "component": "project.project-item"
+    }
+  }
+}
